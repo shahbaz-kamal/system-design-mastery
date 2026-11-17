@@ -1,0 +1,5 @@
+---
+description: Shared DDIA teaching and document-generation project guidance
+alwaysApply: true
+---
+Read root `AGENTS.md`, `README.md`, and the applicable `context/*.md`. For chapter kickoff follow root `start_here.md` using the user-specified Chapter X, not a hard-coded chapter. Preserve verified source attributions and the teaching-first workflow.

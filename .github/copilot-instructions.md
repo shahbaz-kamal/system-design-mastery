@@ -1,0 +1,1 @@
+Read root `AGENTS.md` and `context/*.md` as the project's canonical teaching and document rules. For `@start_here.md for Chapter X`, follow root `start_here.md` and do not assume Chapter 2. Preserve sources, editable Markdown, diagrams, and validated Word output.

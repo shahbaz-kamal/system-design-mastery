@@ -1,0 +1,6 @@
+digraph RequestFlow {
+  graph [rankdir=LR, bgcolor="white", pad=0.2, nodesep=0.45, ranksep=0.45];
+  node [shape=box, style="rounded,filled", fillcolor="#EAF3FF", color="#76A7E1", fontname="Arial", fontsize=11];
+  edge [color="#64748B", arrowsize=0.7];
+  Client -> API -> Database;
+}
